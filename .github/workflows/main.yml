@@ -1,7 +1,4 @@
 name: <data_bricks>
-
-name: <Repo_name>
-
 on:
   push:
     branches: ["main"]
